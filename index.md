@@ -4,14 +4,12 @@ banner_image: "/uploads/2019/02/15/coffee-with-pastries-in-box.jpg"
 layout: landing-page
 heading: Pastries By Grey
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2019/02/15/selfie2.jpg"
 services:
-- heading: Order Here!
+- heading: Order Online!
   description: Here you can fill out a form and I will be sent an email so I can respond
     and allow you to order pastries online!
-  icon: ''
+  icon: "/uploads/2019/02/15/pink-doughnut-floating-in-pool.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
